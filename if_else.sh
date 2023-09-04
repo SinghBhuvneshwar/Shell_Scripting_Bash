@@ -5,7 +5,7 @@ read age
 
 if [ $age -ge 18 ]
 then
-	echo you are eligiable for vote!
+	echo you are eligible for vote!
 else
-	echo you are not eligiable for vote!
+	echo you are not eligible for vote!
 fi
