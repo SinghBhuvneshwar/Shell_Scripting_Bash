@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo till what number you want counting
 read num
 count=1
